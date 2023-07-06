@@ -9,7 +9,7 @@ int main()
 
         /*
          * 1 ano -> 365 dias
-         * 1 mes -> 30 dias
+         * 1 mes ->  30 dias
          */
         dia += ano*365;
         dia += mes*30;
