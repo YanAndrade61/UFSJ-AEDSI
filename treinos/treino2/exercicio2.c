@@ -6,8 +6,11 @@ int main()
 
         printf("Digite sua idade (ex: anos meses dias): ");
         scanf("%d %d %d", &ano, &mes, &dia);
-        
-        /* Conversao de anos e meses para dia */
+
+        /*
+         * 1 ano -> 365 dias
+         * 1 mes -> 30 dias
+         */
         dia += ano*365;
         dia += mes*30;
         printf("Idade em dias: %d\n", dia);
