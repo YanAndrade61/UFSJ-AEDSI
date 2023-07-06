@@ -2,13 +2,14 @@
 
 ## Assuntos: printf e scanf
 
-Este repositório contém a solução para a Lista de Treino 01 do curso de Algoritmos e Estruturas de Dados 1 (AEDs1). Os exercícios abordam os tópicos de `printf` e `scanf` em linguagem de programação.
+Este repositório contém a solução para a Lista de Treino 01 do curso de Algoritmos e Estruturas de Dados 1 (AEDs1). 
+Os exercícios abordam os tópicos de `printf` e `scanf` em linguagem de programação.
 
 ## Exercícios
 
 1. **Imprimir nome completo em uma única linha**
    - Descrição: Crie um programa que imprima o seu nome completo em uma única linha.
-   - Arquivo: `exercicio1.c`
+   - Arquivo: [`exercicio1.c`](solve.c)
 
 2. **Imprimir cada palavra do nome em linhas separadas usando um único printf**
    - Descrição: Modifique o programa do exercício 1 para imprimir cada palavra do seu nome em uma linha separada usando um único `printf`.
