@@ -12,15 +12,15 @@ Os exercícios abordam os tópicos de `printf` e `scanf` em linguagem de program
    - Arquivo: [`exercicio1.c`](exercicio1.c)
 
 2. **Imprimir cada palavra do nome em linhas separadas usando um único printf**
-   - Descrição: Modifique o programa do exercício 1 para imprimir cada palavra do seu nome em uma linha separada usando um único `printf`.
+   - Descrição: Crie um programa que imprima cada palavra do seu nome em uma linha separada usando um único `printf`.
    - Arquivo: [`exercicio2.c`](exercicio2.c)
 
 3. **Imprimir cada palavra do nome em linhas separadas usando um printf para cada**
-   - Descrição: Modifique o programa do exercício 1 para imprimir cada palavra do seu nome em uma linha separada usando um `printf` para cada palavra.
+   - Descrição: Crie um programa que imprima cada palavra do seu nome em uma linha separada usando um `printf` para cada palavra.
    - Arquivo: [`exercicio3.c`](exercicio3.c)
 
 4. **Imprimir cada palavra do nome em linhas separadas usando um único printf e argumentos separados**
-   - Descrição: Modifique o programa do exercício 1 para imprimir cada palavra do seu nome em uma linha separada usando um único `printf`, em que o primeiro argumento é um texto e cada palavra é um argumento separado. Use o código de formatação `%s` para inserir cada palavra no texto.
+   - Descrição: Crie um programa que imprima cada palavra do seu nome em uma linha separada usando um único `printf`, em que o primeiro argumento é um texto e cada palavra é um argumento separado. Use o código de formatação `%s` para inserir cada palavra no texto.
    - Arquivo: [`exercicio4.c`](exercicio4.c)
 
 5. **Pedir ao usuário para digitar um caractere e imprimir**
