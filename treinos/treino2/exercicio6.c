@@ -8,8 +8,8 @@ int main()
         scanf("%f", &segundo);
 
         /*
-         * 1 hora -> 3600 segundos
-         * 1 minuto -> 60 segundos
+         * 1   hora -> 3600 segundos
+         * 1 minuto ->   60 segundos
          */
         hora = segundo / 3600;
         segundo -= hora;
