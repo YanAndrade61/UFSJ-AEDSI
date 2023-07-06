@@ -12,10 +12,9 @@ int main()
          * 1 minuto ->   60 segundos
          */
         hora = segundo / 3600;
-        segundo -= hora;
+        segundo %= 3600;
         minuto = segundo / 60;
-        segundo -= minuto;
-        printf("%d segundos => ", hora + minuto + segundo);
+        segundo %= 60;
         printf("%d horas %d minutos %d segundos\n", hora, minuto, segundo);
 
         return 0;
